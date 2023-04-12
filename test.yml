@@ -1,0 +1,14 @@
+name: Tony
+sex: Male
+age: 40
+active: true
+key:
+    key1: cheese
+    key2: pap
+    key3:
+        sencond: yes
+        third: no
+dance: 'great:dance'
+jsonObject:
+    key: value
+    key2: 33
